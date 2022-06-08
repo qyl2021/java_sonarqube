@@ -16,7 +16,7 @@
     "d3-shape": "1.2.2",
     "d3-zoom": "1.7.3",
     "date-fns": "1.29.0",
-    "dompurify": "1.0.11",
+    "dompurify": "2.2.3",
     "formik": "1.2.0",
     "history": "3.3.0",
     "intl-relativeformat": "2.1.0",
